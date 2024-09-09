@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "library-frontend"
+  "defaultProject": "library-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
